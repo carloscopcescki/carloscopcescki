@@ -5,6 +5,4 @@ Me chamo Carlos Daniel Copcescki Alcarria, possuo 22 anos de idade. Estou cursan
 
 # Stats
 
-![Stats carloscopcescki](https://github-readme-stats.vercel.app/api?username=carloscopcescki&show_icons=true&theme=dark)
-
-![Linguaguens](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscopcescki&layout=compact&theme=dark)
+![Stats carloscopcescki](https://github-readme-stats.vercel.app/api?username=carloscopcescki&show_icons=true&theme=dark) ![Linguaguens](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscopcescki&layout=compact&theme=dark)
