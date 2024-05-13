@@ -3,8 +3,6 @@
 
 Me chamo Carlos Daniel Copcescki Alcarria, possuo 22 anos de idade. Estou cursando Engenharia da Computação, sou formado em Técnico em Informática pela ETEC de Mauá e sempre fui entusiasta por tecnologia. Busco me desenvolver profissionalmente para adentrar ao mercado de T.I.
 
-# Conecte-se comigo
-
 <a href="www.linkedin.com/in/carlos-alcarria"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>
 
 # Stats e linguagens utilizadas
@@ -16,5 +14,4 @@ Me chamo Carlos Daniel Copcescki Alcarria, possuo 22 anos de idade. Estou cursan
 <a href="https://lisp-lang.org/"><img src="https://th.bing.com/th/id/R.041cd22b4d8b23da6f206b624ffd486c?rik=zZ4Q2iNRATXwjA&pid=ImgRaw&r=0" width="40" height="40" /></a>
 
 ![Stats carloscopcescki](https://github-readme-stats.vercel.app/api?username=carloscopcescki&show_icons=true&theme=dark) 
-
 ![Linguaguens](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscopcescki&layout=compact&theme=dark)
