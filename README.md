@@ -6,7 +6,7 @@ Me chamo Carlos Daniel Copcescki Alcarria, possuo 22 anos de idade. Estou cursan
 <a href="www.linkedin.com/in/carlos-alcarria"><img src="https://th.bing.com/th/id/OIP.b5oDvUVU5UVN4cefTJGq3wHaHa?rs=1&pid=ImgDetMain" width="40" height="40" /></a>
 
 # Stats e linguagens utilizadas
-
+<a href="www.linkedin.com/in/carlos-alcarria"><img src="https://th.bing.com/th/id/OIP.b5oDvUVU5UVN4cefTJGq3wHaHa?rs=1&pid=ImgDetMain" width="40" height="40" /></a>
 <a href="https://www.learn-html.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /></a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /></a>
 <a href="https://www.learn-c.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" /></a>
