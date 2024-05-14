@@ -1,10 +1,10 @@
-# Carlos Copcescki
-
 ## Sobre mim
 
 Me chamo Carlos Daniel Copcescki Alcarria, possuo 22 anos de idade. Atualmente estou cursando Engenharia da Computação no Centro Universitário Fundação Santo André e também sou formado em Técnico em Informática pela ETEC de Mauá.  
 
 Desenvolvo projetos para aprender e aperfeiçoar minhas habilidades, pois quero me desenvolver como profissional e futuramente trabalhar na área.
+
+## Conecte-se comigo
 
 <a href="https://www.linkedin.com/in/carlos-alcarria-a8ab0b224/"><img src="https://th.bing.com/th/id/OIP.b5oDvUVU5UVN4cefTJGq3wHaHa?rs=1&pid=ImgDetMain" width="40" height="40" /></a>
 
