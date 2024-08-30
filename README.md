@@ -14,7 +14,7 @@ I'm Carlos Daniel, I'm 22 years old. I have a degree in IT Technician from ETEC 
     ![ferramenta](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-## 🔗 Contact me
+## 🔗 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlos.copcescki@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carlos-alcarria)
