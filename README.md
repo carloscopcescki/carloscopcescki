@@ -21,6 +21,5 @@ I'm Carlos Daniel, I'm 22 years old. I have a degree in IT Technician from ETEC 
 
 ## 📈 GitHub Stats
 
-![Copcescki GitHub stats](https://github-readme-stats.vercel.app/api?username=carloscopcescki&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscopcescki&&theme=dark&hide_progress=true)
 
