@@ -16,8 +16,8 @@ Sou Carlos Daniel, possuo 22 anos de idade. Sou formado em Técnico em Informát
 
 ## 🔗 Contact me
 
-- [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlos.copcescki@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carlos-alcarria)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlos.copcescki@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carlos-alcarria)
 
 ## 📈 GitHub Stats
 
