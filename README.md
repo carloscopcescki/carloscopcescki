@@ -1,6 +1,7 @@
 
 ## 🚀 About me
-I'm Carlos Daniel, I'm 22 years old. I have a degree in IT Technician from ETEC in Mauá and I am currently studying Computer Engineering at Centro Universitário Fundação Santo André.
+I'm Carlos Daniel, 
+I have a degree in IT Technician from ETEC in Mauá and I am currently studying Computer Engineering at Centro Universitário Fundação Santo André.
 
 ## 🔗 Contact
 
