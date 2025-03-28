@@ -10,4 +10,4 @@ I have a degree in IT Technician from ETEC in Mauá and I am currently studying 
 
 ## Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscopcescki&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscopcescki&layout=donut&theme=dark)
